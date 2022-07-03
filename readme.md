@@ -1,6 +1,6 @@
 # My QR
 
-Website: [My QR](https:/my-frontend-qr.netlify.app)
+Website: [My QR](https://my-frontend-qr.netlify.app/src)
 
 ## Screenshot
 
